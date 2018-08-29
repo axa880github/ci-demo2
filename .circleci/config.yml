@@ -12,5 +12,5 @@ jobs:
           name: Print the Current Time
           command: date
       - run:
-          name: Print the Current Time
+          name: Simulate failure
           command: datexxx
